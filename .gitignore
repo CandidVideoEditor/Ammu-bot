@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+logs/
+media/stickers/*
+media/gifs/*
+media/voice_notes/*
